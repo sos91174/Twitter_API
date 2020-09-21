@@ -14,10 +14,10 @@ import twitter4j.auth.AccessToken;
 
 
 public class JavaRestTweet {
-    static String consumerKeyStr = "UUBuGCkkU70794Kzq0LHFf7nE";
-    static String consumerSecretStr = "ldLMPzqp1giyIF8BlreqH9vKLQAn5hmaXxynyZRM9pw5aT3CeR";
-    static String accessTokenStr = "1262585608897089541-4f9SgVjmjl3XhehtS17ZlRfbeKmBoI";
-    static String accessTokenSecretStr = "JMzoICndWtxX0r0bbIFqZn4c6QVTuS06kDwEVaUlkawp9";
+    static String consumerKeyStr = "UUB******794Kzq0LHFf7nE";
+    static String consumerSecretStr = "ldLMPzq***********XxynyZRM9pw5aT3CeR";
+    static String accessTokenStr = "126258560889708*********hehtS17ZlRfbeKmBoI";
+    static String accessTokenSecretStr = "JMzoICndWtxX***4c6QVTuS06kDwEVaUlkawp9";
 
 
     public static void main(String[] args) {
